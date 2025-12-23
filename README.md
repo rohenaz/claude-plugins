@@ -10,7 +10,13 @@ Personal plugin marketplace for Claude Code.
 
 ## Available Plugins
 
-*None yet*
+### Flow
+
+Personal AI assistant - manages tasks, remembers context, navigates projects.
+
+```shell
+/plugin install flow@rohenaz
+```
 
 ## Install a Plugin
 
