@@ -7,6 +7,14 @@
   "description": "Personal Claude Code plugins",
   "plugins": [
     {
+      "name": "agentcraft",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rohenaz/agentcraft.git"
+      },
+      "description": "Assign sounds to AI coding agent lifecycle events. Works with Claude Code and OpenCode."
+    },
+    {
       "name": "flow",
       "source": {
         "source": "url",
