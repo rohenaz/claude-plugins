@@ -15,12 +15,12 @@
       "description": "Assign sounds to AI coding agent lifecycle events. Works with Claude Code and OpenCode."
     },
     {
-      "name": "flow",
+      "name": "neighborhood",
       "source": {
         "source": "url",
-        "url": "https://github.com/rohenaz/claude-flow.git"
+        "url": "https://github.com/rohenaz/neighborhood.git"
       },
-      "description": "Personal AI assistant - manages tasks, remembers context, navigates projects"
+      "description": "Live crime data MCP plugin — 6 sources, 5 tools, any US zip code"
     }
   ]
 }
