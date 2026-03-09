@@ -21,6 +21,14 @@
         "url": "https://github.com/rohenaz/neighborhood.git"
       },
       "description": "Live crime data MCP plugin — 6 sources, 5 tools, any US zip code"
+    },
+    {
+      "name": "greatlakesjobs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rohenaz/greatlakesjobs-mcp.git"
+      },
+      "description": "Great Lakes Jobs MCP plugin — search licensed trade jobs across Michigan with interactive map"
     }
   ]
 }
